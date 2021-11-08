@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\ASUS\source\repos\100자리\100자리\소스.c(6,14): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+C:\Users\ASUS\source\repos\100자리\100자리\소스.c(19,6): warning C4101:  'i' :참조되지 않은 지역 변수입니다.
+소스.obj : error LNK2019: _Substract_Of_Natural_Numbers 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\ASUS\source\repos\100자리\Debug\100자리.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
